@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @D1348-Kenan
+- 👀 I’m interested in Scratch.
+- 🌱 I’m currently learning Phyton.
+- 💞️ I’m looking to collaborate on project based works.
+- 📫 Please email me. kenanbastug@gmail.com
