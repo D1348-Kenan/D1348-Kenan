@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @D1348-Kenan
-- 🌱 I’m currently learning Phyton.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on project based works.
 - 📫 Please email me. kenanbastug@gmail.com
