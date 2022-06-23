@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @D1348-Kenan
-- 🌱 I’m currently learning AWS.
+- 👋 Hi, I’m Kenan
+- 🌱 I'm cloud engineer (AWS).
+-    I'm learning Devops tools.
 - 💞️ I’m looking to collaborate on project based works.
 - 📫 Please email me. kenanbastug@gmail.com
